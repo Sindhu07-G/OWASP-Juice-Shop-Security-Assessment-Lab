@@ -1,0 +1,39 @@
+# OWASP Juice Shop Security Assessment Lab
+
+## Project Overview
+
+This project demonstrates a basic web application security assessment using the OWASP Juice Shop vulnerable application running inside Docker on Ubuntu Linux.
+
+The objective was to deploy a vulnerable web application, perform reconnaissance and service enumeration using Nmap, and identify potential security weaknesses in a controlled lab environment.
+
+## Tools Used
+
+- Ubuntu Linux
+- Docker
+- OWASP Juice Shop
+- Nmap
+- Firefox Browser
+- VirtualBox
+
+## Activities Performed
+
+1. Installed and configured Docker.
+2. Downloaded and deployed OWASP Juice Shop using Docker.
+3. Verified application accessibility through a web browser.
+4. Performed port scanning using Nmap.
+5. Conducted service version detection.
+6. Executed vulnerability scanning using Nmap NSE scripts.
+7. Documented findings with screenshots.
+
+## Skills Demonstrated
+
+- Docker Container Management
+- Vulnerability Assessment
+- Service Enumeration
+- Network Reconnaissance
+- Security Testing
+- Linux Administration
+
+## Screenshots
+
+See the Screenshots folder for project evidence.
